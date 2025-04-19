@@ -1,0 +1,5 @@
+# Optional dependencies for the Scientific Calculator project
+# Tkinter is included with Python by default, so no need to install it separately.
+# Pillow is optional and can be used if you plan to add custom icons, themes, or images later.
+
+Pillow
